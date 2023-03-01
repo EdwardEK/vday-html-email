@@ -1,5 +1,4 @@
 {
-    "cSpell.ignoreWords": [
-        "mso-table-rspace"
-    ]
+  "cSpell.ignoreWords": ["mso-table-rspace"],
+  "liveServer.settings.port": 5501
 }
